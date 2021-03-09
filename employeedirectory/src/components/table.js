@@ -1,7 +1,7 @@
 import React from 'react';
-import Container from "../components/container";
+import Container from "./Container";
 
-function table(props) {
+function Table(props) {
     return (
         <Container>
             <table className="table table-striped mt-2">
@@ -37,4 +37,4 @@ function table(props) {
     )
 }
 
-export default table;
+export default Table;

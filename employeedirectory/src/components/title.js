@@ -1,7 +1,7 @@
 
 import React from "react";
 
-function title() {
+function Title() {
     return (
         <div className="text-center bg-info p-5">
             <h1 style={{ fontSize: 50, color: "white" }}>Staff Roster</h1>
@@ -10,4 +10,4 @@ function title() {
     )
 }
 
-export default title;
+export default Title;
