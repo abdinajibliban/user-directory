@@ -10,6 +10,9 @@ because it filters employees by name. This app is deployed on Github Pages.
 
 Here are the dependencies and other installations you need to install to run the application: React, Axios, Node, Bootstrap, react-dom, react-bootstrap, react scripts, JavaScript, Random User API.
 
+Click employeedirectory to see files and folders relevant to app. Download or clone repository. 
+Use `npm install` to install the required npm packages to run. Use `npm start` to begin.
+
 # Usage
 
 To use this app, run it in the following locations: Terminal/Gitbash
