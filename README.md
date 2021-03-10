@@ -7,7 +7,7 @@
 
 # Description
 
-This application an employee directory that lets employees and managers 
+This application is an employee directory that lets employees and managers 
 have quick access to non-sensitive data about employees. This employee directory is particulary helpful
 because it filters employees by name. This app is deployed on Github Pages.
 
