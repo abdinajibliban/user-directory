@@ -33,7 +33,7 @@ If you have any questions, open an issue or contact abdinajibliban at : abdinaji
 ## Web App Links
 
 * [Github Link](https://github.com/abdinajibliban/user-directory)
-* [Github Pages](https://www.google.com/?client=safari)
+* [Github Pages](https://abdinajibliban.github.io/deployedud/)
 
 # Getting Started with Create React App
 
