@@ -1,5 +1,10 @@
 # Unit 19 React Homework: Employee Directory
 
+## Web App Links
+
+* [Github Pages (click this link)](https://abdinajibliban.github.io/deployedud/)
+* [Github Repo](https://github.com/abdinajibliban/user-directory)
+
 # Description
 
 This application an employee directory that lets employees and managers 
@@ -29,11 +34,6 @@ This project is licensed under the MIT license.
 # Questions
 
 If you have any questions, open an issue or contact abdinajibliban at : abdinajibliban@gmail.com.
-
-## Web App Links
-
-* [Github Link](https://github.com/abdinajibliban/user-directory)
-* [Github Pages](https://abdinajibliban.github.io/deployedud/)
 
 # Getting Started with Create React App
 
